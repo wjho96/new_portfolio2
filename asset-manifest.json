@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.45803a50.css",
+    "main.js": "./static/js/main.f266dab2.js",
+    "static/media/Swatch.gif": "./static/media/Swatch.d8f9367356367b47f1a4.gif",
+    "static/media/Starbucks.gif": "./static/media/Starbucks.e0aea1638a84cc2fbcab.gif",
+    "static/media/Portfolio.gif": "./static/media/Portfolio.e588cf0ecbd2dc8d5f66.gif",
+    "static/media/coding2.png": "./static/media/coding2.aa36a3045a39b9a3561f.png",
+    "static/media/aboutme.png": "./static/media/aboutme.5bd216cdc3f79d716dd8.png",
+    "static/media/Todolist.gif": "./static/media/Todolist.8ecf65d95f717ef8752b.gif",
+    "static/media/react.png": "./static/media/react.81ed438b18e24116794d.png",
+    "static/media/coding3.png": "./static/media/coding3.9601e18a35ff0cf97d78.png",
+    "static/media/coding4.png": "./static/media/coding4.f5855f725007995946f0.png",
+    "static/media/mysql.png": "./static/media/mysql.4ee36997e9272dccb68b.png",
+    "static/media/hello@reallygreatsite.com.png": "./static/media/hello@reallygreatsite.com.0d89ee0538170d223cfe.png",
+    "static/media/coding.png": "./static/media/coding.0651a3961c7208f567cf.png",
+    "static/media/scss.png": "./static/media/scss.c5da83bb9ff45b84e0e7.png",
+    "static/media/jquery.png": "./static/media/jquery.3cce901947a2c0e182b4.png",
+    "static/media/github.png": "./static/media/github.9e094d235b4caa7c31fc.png",
+    "static/media/css.png": "./static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/html.png": "./static/media/html.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/js.png": "./static/media/js.6b8f1d21e031c402a65f.png",
+    "index.html": "./index.html",
+    "main.45803a50.css.map": "./static/css/main.45803a50.css.map",
+    "main.f266dab2.js.map": "./static/js/main.f266dab2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45803a50.css",
+    "static/js/main.f266dab2.js"
+  ]
+}
